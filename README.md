@@ -7,8 +7,8 @@
 <tr>
     <td>
         <ul>
-            <li>Code: https://github.com/R5G1/museum/tree/gh-pages</li>
-            <li>Work: https://github.com/R5G1/rslang</li>
+            <li>Code: https://github.com/R5G1/rslang</li>
+            <li>Work: https://rslang-r5g1-edchekanov-bskom.netlify.app/</li>
             <li>us:  HTML, CSS, JavaScript, TypeScript, Webpack,  adaptive design</li>
     </td>
     <td width="40%">

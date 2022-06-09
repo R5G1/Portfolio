@@ -1,5 +1,40 @@
     # Portfolio of Vladislav Klimashevsky
 
+## Project Management System
+
+<table>
+<p> <br>Team effort</br>Project Management System – an application that helps an individual person in a team or group of developers achieve their goals. Work together, manage projects and take productivity to the next level!</p>
+<tr>
+    <td>
+        <ul>
+            <li>Code: https://github.com/R5G1/project-management-app/tree/develop/project-management-app</li>
+            <li>Work: https://project-management-4exkmpnoh-avlasenkopetr.vercel.app/welcome</li>
+            <li>us:  HTML, SCSS, React, TypeScript, Webpack,  adaptive design</li>
+        </ul>
+    </td>
+    <td width="40%", >
+        <img src="/img/project-Managment-app.jpg" width="100%" height='250px'>
+    </td>
+</tr>
+</table>
+    
+## React-components
+
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Code: https://github.com/R5G1/react-components/tree/gh-pages</li>
+            <li>Work: https://r5g1-react-components.netlify.app/</li>
+            <li>us:  HTML, SCSS, React, TypeScript, Webpack,  adaptive design</li>
+        </ul>
+    </td>
+    <td width="40%", >
+        <img src="/img/react-components.jpg" width="100%" height='250px'>
+    </td>
+</tr>
+</table>
+
 ## Rslang
 
 <table>

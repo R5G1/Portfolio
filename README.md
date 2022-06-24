@@ -104,6 +104,23 @@
 </tr>
 </table>
 
+## LandingRoofing
+
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Code: https://github.com/R5G1/LandingRoofing/tree/gh-pages</li>
+            <li>Work: https://r5g1-landing-roofing.netlify.app/</li>
+            <li>us:  HTML, CSS,  jquery,  adaptive design</li>
+        </ul>
+    </td>
+    <td width="40%">
+        <img src="/img/LandingRoofing.jpg" height='250px'>
+    </td>
+</tr>
+</table>
+
 ## Shelter
 
 <table>
@@ -112,7 +129,7 @@
         <ul>
             <li>Code: https://github.com/R5G1/Shelter/tree/gh-pages</li>
             <li>Work: https://r5g1-shelter.netlify.app/</li>
-            <li>us:  HTML, CSS, JavaScript,  adaptive design</li>
+            <li>us:  HTML, CSS,  jquery,  adaptive design</li>
         </ul>
     </td>
     <td width="40%">
@@ -129,7 +146,7 @@
         <ul>
             <li>Code: https://github.com/R5G1/Game-portal/tree/gh-pages</li>
             <li>Work: https://r5g1-game-portal.netlify.app/</li>
-            <li>us:  HTML, CSS, JavaScript,  adaptive design</li>
+            <li>us:  HTML, CSS,  jquery,  adaptive design</li>
         </ul>
     </td>
     <td width="40%">

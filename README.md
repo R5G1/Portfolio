@@ -1,5 +1,39 @@
     # Portfolio of Vladislav Klimashevsky
 
+## Drafts
+
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Code: https://github.com/R5G1/drafts/tree/develop</li>
+            <li>Work: https://r5g1-drafts.netlify.app/</li>
+            <li>us:  HTML, SCSS, SCSS-module, React, TypeScript, Webpack</li>
+        </ul>
+    </td>
+    <td width="40%", >
+        <img src="/img/Drafts.jpg" width="100%" height='250px'>
+    </td>
+</tr>
+</table>
+
+## Bastion-Group
+
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Code: https://github.com/R5G1/Bastion-Group/tree/develop</li>
+            <li>Work: https://r5g1-bastion-group.netlify.app/</li>
+            <li>us:  HTML, SCSS, SCSS-module, React, TypeScript, Webpack, adaptive design</li>
+        </ul>
+    </td>
+    <td width="40%", >
+        <img src="/img/Bastion-Group.jpg" width="100%" height='250px'>
+    </td>
+</tr>
+</table>
+
 ## Project Management System
 
 <table>
@@ -24,7 +58,7 @@
 <tr>
     <td>
         <ul>
-            <li>Code: https://github.com/R5G1/react-components/tree/gh-pages</li>
+            <li>Code: https://github.com/R5G1/react-components</li>
             <li>Work: https://r5g1-react-components.netlify.app/</li>
             <li>us:  HTML, SCSS, React, TypeScript, Webpack,  adaptive design</li>
         </ul>
@@ -35,33 +69,15 @@
 </tr>
 </table>
 
-## Rslang
-
-<table>
-<p> <br>Team effort</br> RS Lang - an application for learning foreign words, including an electronic textbook with a database of words to learn, mini-games to repeat them, a statistics page to track individual progress.</p>
-<tr>
-    <td>
-        <ul>
-            <li>Code: https://github.com/R5G1/rslang</li>
-            <li>Work: https://rslang-r5g1-edchekanov-bskom.netlify.app/</li>
-            <li>us:  HTML, CSS, JavaScript, TypeScript, Webpack,  adaptive design</li>
-        </ul>
-    </td>
-    <td width="40%", >
-        <img src="/img/rslang.jpg" width="100%" height='250px'>
-    </td>
-</tr>
-</table>
-
 ## Museum
 
 <table>
 <tr>
     <td>
         <ul>
-            <li>Code: https://github.com/R5G1/museum/tree/gh-pages</li>
+            <li>Code: https://github.com/R5G1/museum</li>
             <li>Work: https://r5g1-museum.netlify.app/</li>
-            <li>us:  HTML, CSS, JavaScript,   adaptive design</li>
+            <li>us:  HTML, SCSS, JavaScript, adaptive design</li>
         </ul>
     </td>
     <td width="40%">
@@ -76,9 +92,9 @@
 <tr>
     <td>
         <ul>
-            <li>Code: https://github.com/R5G1/momentum/tree/gh-pages</li>
+            <li>Code: https://github.com/R5G1/momentum</li>
             <li>Work: https://stage1-tasks-momentum.netlify.app/</li>
-            <li>us:  HTML, CSS, JavaScript,  adaptive design</li>
+            <li>us:  HTML, CSS, JavaScript, adaptive design</li>
         </ul>
     </td>
     <td width="40%">
@@ -87,19 +103,36 @@
 </tr>
 </table>
 
-## Slider
+## Golden-Property-Solution
 
 <table>
 <tr>
     <td>
         <ul>
-            <li>Code: https://github.com/R5G1/cssMemSlider/tree/gh-pages</li>
-            <li>Work: https://r5g1-github-io-cssmemslider.netlify.app/</li>
-            <li>us:  HTML, CSS, JavaScript,  adaptive design</li>
+            <li>Code: https://github.com/R5G1/Golden-Property-Solution</li>
+            <li>Work: https://r5g1-golden-property-solution.netlify.app/</li>
+            <li>us:  HTML, SCSS, adaptive design</li>
         </ul>
     </td>
-    <td width="30%">
-        <img src="/img/Slider.jpg" height='250px'>
+    <td width="40%">
+        <img src="/img/Golden-Property-Solution.jpg" height='250px'>
+    </td>
+</tr>
+</table>
+
+## Legalide
+
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Code: https://github.com/R5G1/Legalide</li>
+            <li>Work: https://r5g1-legalide.netlify.app/</li>
+            <li>us:  HTML, SCSS, adaptive design</li>
+        </ul>
+    </td>
+    <td width="40%">
+        <img src="/img/Legalide.jpg" height='250px'>
     </td>
 </tr>
 </table>
@@ -112,7 +145,7 @@
         <ul>
             <li>Code: https://github.com/R5G1/LandingRoofing/tree/gh-pages</li>
             <li>Work: https://r5g1-landing-roofing.netlify.app/</li>
-            <li>us:  HTML, CSS,  jquery,  adaptive design</li>
+            <li>us:  HTML, SCSS,  jquery,  adaptive design</li>
         </ul>
     </td>
     <td width="40%">
@@ -127,9 +160,9 @@
 <tr>
     <td>
         <ul>
-            <li>Code: https://github.com/R5G1/Shelter/tree/gh-pages</li>
+            <li>Code: https://github.com/R5G1/Shelter</li>
             <li>Work: https://r5g1-shelter.netlify.app/</li>
-            <li>us:  HTML, CSS,  jquery,  adaptive design</li>
+            <li>us:  HTML, SCSS,  jquery,  adaptive design</li>
         </ul>
     </td>
     <td width="40%">
@@ -144,9 +177,9 @@
 <tr>
     <td>
         <ul>
-            <li>Code: https://github.com/R5G1/Game-portal/tree/gh-pages</li>
+            <li>Code: https://github.com/R5G1/Game-portal</li>
             <li>Work: https://r5g1-game-portal.netlify.app/</li>
-            <li>us:  HTML, CSS,  jquery,  adaptive design</li>
+            <li>us:  HTML, SCSS,  jquery,  adaptive design</li>
         </ul>
     </td>
     <td width="40%">

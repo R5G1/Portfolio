@@ -1,5 +1,22 @@
     # Portfolio of Vladislav Klimashevsky
 
+## Art Quiz
+
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Code: https://github.com/R5G1/art-quiz/tree/develop</li>
+            <li>Work: https://r5g1-art-quiz.netlify.app/</li>
+            <li>us:  HTML, SCSS, SCSS-module, React, Redux Toolkit, TypeScript, Webpack</li>
+        </ul>
+    </td>
+    <td width="40%", >
+        <img src='https://user-images.githubusercontent.com/71373383/189136464-4118ab34-51af-4bf5-a283-792dad4ae599.png' width="100%" height='250px'>
+    </td>
+</tr>
+</table>
+
 ## Drafts
 
 <table>

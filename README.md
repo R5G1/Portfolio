@@ -8,7 +8,7 @@
         <ul>
             <li>Code: https://github.com/R5G1/art-quiz/tree/develop</li>
             <li>Work: https://r5g1-art-quiz.netlify.app/</li>
-            <li>us:  HTML, SCSS, SCSS-module, React, Redux Toolkit, TypeScript, Webpack</li>
+            <li>us:  HTML, SCSS, SCSS-module, React, Redux Toolkit, TypeScript, Webpack, adaptive design</li>
         </ul>
     </td>
     <td width="40%", >

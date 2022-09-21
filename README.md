@@ -7,6 +7,7 @@
     <td>
         <ul>
             <li>Code: https://github.com/R5G1/art-quiz/tree/develop</li>
+            <a href="https://github.com/R5G1/art-quiz/tree/develop" target="_blank">Другая страница</a>
             <li>Work: https://r5g1-art-quiz.netlify.app/</li>
             <li>us:  HTML, SCSS, SCSS-module, React, Redux Toolkit, TypeScript, Webpack, adaptive design</li>
         </ul>

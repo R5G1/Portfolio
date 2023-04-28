@@ -37,6 +37,7 @@
 ## Bastion-Group
 
 <table>
+<p> The Bastion-Group project is a web application developed on the React framework where users can find information about Bastion-Group, its services, and contact the company for advice.</p>
 <tr>
     <td>
         <ul>

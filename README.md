@@ -3,6 +3,7 @@
 ## Art Quiz
 
 <table>
+    <p> The Art Quiz project is a web application that invites the user to answer several questions about different works of art and test their knowledge. The questions include different genres of art such as painting, sculpture, architecture, etc.</p>
 <tr>
     <td>
         <ul>

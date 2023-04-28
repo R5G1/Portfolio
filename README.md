@@ -20,6 +20,7 @@
 ## Drafts
 
 <table>
+    <p> Drafts is a landing page web application developed in the React framework using various animations.</p>
 <tr>
     <td>
         <ul>
